@@ -26,7 +26,7 @@ Versionamento com Git
 
 📂 Estrutura do projeto
 
-O código principal está localizado em: src/
+O código principal está localizado em: src/Main.java
 
 Onde ficam as classes Java do projeto.
 
