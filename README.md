@@ -40,7 +40,7 @@ Execute a classe principal
 
 🎯 Objetivo futuro
 
-Evoluir este projeto para incluir:
+Próximas melhorias para este projeto para incluir:
 
 Entrada de dados do usuário
 Tratamento de erros
